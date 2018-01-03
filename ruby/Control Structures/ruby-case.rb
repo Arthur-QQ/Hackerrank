@@ -9,5 +9,7 @@ def identify_class(obj)
         puts "It's a TestCase!"
     when Contest
         puts "It's a Contest!"
+    else
+        puts "It's an unknown model"
     end
 end
