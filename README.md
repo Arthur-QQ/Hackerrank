@@ -1,2 +1,2 @@
 # Hackerrank
-Hackerrank solutions!!
+Hackerrank solutions!
